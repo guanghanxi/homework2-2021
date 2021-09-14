@@ -32,17 +32,17 @@ div {
     padding: 25px; 
 }
 
-div#red {
+#red {
     background-color: #FF0000;
     text-align: right;
 }
 
-div#blue {
+#blue {
     background-color: #0000FF;
     text-align: left;
 }
 
-div#yellow {
+#yellow {
     background-color: #FFFF00;
     text-align: right;
 }
@@ -56,7 +56,7 @@ div#yellow {
     text-shadow: 5px 5px 5px #C7E2C7;
 }
 
-div#green {
+#green {
     background-color: #008000;
     text-align: left;
 }
